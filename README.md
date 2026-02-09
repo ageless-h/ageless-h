@@ -8,10 +8,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ageless-h?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636)](https://github.com/ageless-h?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ageless-h?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=e3b341&affiliations=OWNER)](https://github.com/ageless-h?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=ageless-h&style=for-the-badge&color=58a6ff&labelColor=0d1117)
-
 </div>
 
 ---
@@ -114,19 +110,6 @@ Smart prompt generator powered by Danbooru data with weighted random sampling.
 </div>
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ageless-h&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&ring_color=58a6ff" />
-<img width="49%" src="https://streak-stats.demolab.com?user=ageless-h&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=f78166&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageless-h&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" />
-
-</div>
 
 ---
 
