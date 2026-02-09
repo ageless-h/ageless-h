@@ -32,25 +32,50 @@ Blender x ComfyUI ecosystem developer, focused on bridging the gap between 3D cr
 > All my projects form a cohesive ecosystem connecting **3D Creation** with **AI Generation**.
 
 <div align="center">
+<br/>
 
-**Blender** &mdash; 3D Creation
+<img src="https://img.shields.io/badge/3D_CREATION-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+<br/>
+<sub>Blender &mdash; Modeling / Animation / Rendering</sub>
+<br/><br/>
 
-&#8595;
+<img src="https://img.shields.io/badge/%E2%94%82-0d1117?style=flat-square&labelColor=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/ZMQ-DF0000?style=flat-square&logoColor=white" />&ensp;<img src="https://img.shields.io/badge/SSH-4EAA25?style=flat-square&logoColor=white" />&ensp;<img src="https://img.shields.io/badge/MCP-6e40c9?style=flat-square&logoColor=white" />&ensp;<img src="https://img.shields.io/badge/HTTP-58a6ff?style=flat-square&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/%E2%94%82-0d1117?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 
-**Bridge Layer**
-[Blender-ComfyUI-Bridge](https://github.com/ageless-h/Blender-ComfyUI-Bridge) &mdash; Blender addon, ZMQ bidirectional communication, SSH tunnel
-[ComfyUI-Blender-Bridge-node](https://github.com/ageless-h/ComfyUI-Blender-Bridge-node) &mdash; ComfyUI server-side bridge node
-[blender-mcp](https://github.com/ageless-h/blender-mcp) &mdash; MCP protocol, 4-layer architecture, 26 specialized tools
+<img src="https://img.shields.io/badge/BRIDGE_LAYER-f78166?style=for-the-badge" />
+<br/><br/>
+<a href="https://github.com/ageless-h/Blender-ComfyUI-Bridge"><img src="https://img.shields.io/badge/Blender--ComfyUI--Bridge-ZMQ_%C2%B7_SSH_Tunnel-161b22?style=flat-square&logo=github&logoColor=white" /></a>
+<br/>
+<a href="https://github.com/ageless-h/ComfyUI-Blender-Bridge-node"><img src="https://img.shields.io/badge/ComfyUI--Blender--Bridge--node-Server_Side_Node-161b22?style=flat-square&logo=github&logoColor=white" /></a>
+<br/>
+<a href="https://github.com/ageless-h/blender-mcp"><img src="https://img.shields.io/badge/blender--mcp-MCP_%C2%B7_4_Layer_%C2%B7_26_Tools-161b22?style=flat-square&logo=github&logoColor=white" /></a>
+<br/><br/>
 
-&#8595;
+<img src="https://img.shields.io/badge/%E2%94%82-0d1117?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 
-**ComfyUI** &mdash; AI Workflow Engine
+<img src="https://img.shields.io/badge/AI_WORKFLOW-3fb950?style=for-the-badge" />
+<br/>
+<sub>ComfyUI &mdash; Node-based AI Generation Engine</sub>
+<br/><br/>
 
-&#8595;
+<img src="https://img.shields.io/badge/%E2%94%82-0d1117?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 
-**Custom Node Ecosystem**
-[ComfyUI-AFA](https://github.com/ageless-h/ComfyUI-AFA) &middot; [ComfyUI_Data_Manager](https://github.com/ageless-h/ComfyUI_Data_Manager) &middot; [ComfyUI-ImageSimilarity](https://github.com/ageless-h/ComfyUI-ImageSimilarity) &middot; [ComfyUI-LodaPrompt](https://github.com/ageless-h/ComfyUI-LodaPrompt) &middot; [ComfyUI_Grid_image](https://github.com/ageless-h/ComfyUI_Grid_image)
+<img src="https://img.shields.io/badge/CUSTOM_NODE_ECOSYSTEM-d2a8ff?style=for-the-badge" />
+<br/><br/>
+<a href="https://github.com/ageless-h/ComfyUI-AFA"><img src="https://img.shields.io/badge/ComfyUI--AFA-AI_For_Animation-161b22?style=flat-square&logo=github&logoColor=white" /></a>&ensp;
+<a href="https://github.com/ageless-h/ComfyUI_Data_Manager"><img src="https://img.shields.io/badge/Data__Manager-File_Manager-161b22?style=flat-square&logo=github&logoColor=white" /></a>&ensp;
+<a href="https://github.com/ageless-h/ComfyUI-ImageSimilarity"><img src="https://img.shields.io/badge/ImageSimilarity-Perceptual_Hash-161b22?style=flat-square&logo=github&logoColor=white" /></a>
+<br/>
+<a href="https://github.com/ageless-h/ComfyUI-LodaPrompt"><img src="https://img.shields.io/badge/LodaPrompt-Danbooru_Prompt-161b22?style=flat-square&logo=github&logoColor=white" /></a>&ensp;
+<a href="https://github.com/ageless-h/ComfyUI_Grid_image"><img src="https://img.shields.io/badge/Grid__image-Grid_Compositor-161b22?style=flat-square&logo=github&logoColor=white" /></a>
 
+<br/>
 </div>
 
 ---
