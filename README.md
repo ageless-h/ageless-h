@@ -103,7 +103,7 @@ Smart prompt generator powered by Danbooru data with weighted random sampling.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
-[![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/ComfyUI/ComfyUI)
+[![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/Comfy-Org/ComfyUI)
 [![ZMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)](https://zeromq.org/)
 [![MCP](https://img.shields.io/badge/MCP_Protocol-6e40c9?style=for-the-badge&logoColor=white)](https://modelcontextprotocol.io/)
 
